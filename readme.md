@@ -51,6 +51,7 @@ This function counts the items in the target element. If there are no items, it 
 If you do not specify a parameter for `replaceWithThis` it will be removed.
 
 ### Options
+
 $('#target').replaceIfEmpty({
 	// Items to count inside target
 	item: 'li',
