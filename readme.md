@@ -11,6 +11,8 @@ You specify parameters: (e.g. items to count, class to add, element to change).
 - Class to add (if applicable)
 - Element to add the class to *or* element to hide
 
+Currently there are 3 plugins available:
+
 1. **Tinacious Hide If Empty** plugin: `tinaciousHIE.js`
 2. **Tinacious Add Class If Empty** plugin: `tinaciousACIE.js`
 3. **Tinacious Replace if Empty** plugin: `tinaciousRIE.js`
