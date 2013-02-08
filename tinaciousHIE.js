@@ -1,5 +1,5 @@
 /*
- *  Tinacious Hide Element if Empty jQuery plugin
+ *  Tinacious Hide if Empty jQuery plugin
  *  Plugin URL: https://github.com/tinacious/ifEmpty
  *
  *  Christina Holly (Tinacious Design)

@@ -1,5 +1,5 @@
 /*
- *  Tinacious Replace Element if Empty jQuery plugin
+ *  Tinacious Replace if Empty jQuery plugin
  *  Plugin URL: https://github.com/tinacious/ifEmpty
  *
  *  Christina Holly (Tinacious Design)

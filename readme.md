@@ -1,6 +1,10 @@
 # Tinacious "If Empty" jQuery Plugins
 
-These plugins were developed to pass conditions on elements that are empty.
+These plugins were developed to simplify development when working with dynamic data brought in through feeds, e.g. RSS or JSON.
+
+A real case for this would be if you are feeding in a #hashtag for a campaign and you need submissions. If you don't have any submissions yet, you can change the design of the page to reflect that automatically.
+
+Another example where this would be useful is if you are feeding in your Twitter feed via RSS. If you haven't posted in a while your posts will not show. You can choose to hide this element, change the style of neighbouring elements or replace this element if this is the case.
 
 You specify parameters: (e.g. items to count, class to add, element to change).
 - Items to count within the target element
@@ -9,6 +13,7 @@ You specify parameters: (e.g. items to count, class to add, element to change).
 
 1. **Tinacious Hide If Empty** plugin: `tinaciousHIE.js`
 2. **Tinacious Add Class If Empty** plugin: `tinaciousACIE.js`
+3. **Tinacious Replace if Empty** plugin: `tinaciousRIE.js`
 
 ## Tinacious Hide If Empty - `TinaciousHIE.js`
 
