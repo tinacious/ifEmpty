@@ -124,3 +124,5 @@ $('#pictures').replaceIfEmpty({
 	replaceWithThis: '<h2>There are currently no pictures</h2>'
 });
 ```
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tinacious/ifempty/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
